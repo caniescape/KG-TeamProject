@@ -150,6 +150,9 @@
     <ClInclude Include="player.h">
       <Filter>mainGame\플레이어</Filter>
     </ClInclude>
+    <ClInclude Include="monsterManager.h">
+      <Filter>mainGame\몬스터</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -214,6 +217,9 @@
     </ClCompile>
     <ClCompile Include="player.cpp">
       <Filter>mainGame\플레이어</Filter>
+    </ClCompile>
+    <ClCompile Include="monsterManager.cpp">
+      <Filter>mainGame\몬스터</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
